@@ -4,7 +4,7 @@ This is a project I developed for the units ICTPRG433 Test Software and ICTPRG44
 
 This application is a basic recruitment system where contractors and jobs can be added and removed, contractors can be assigned to jobs, and jobs can be marked as completed, being some of its main functions. The application features a basic GUI based on WPF. The project also includes sample unit testing.
 
-Below are the instructions given:
+Below are the instructions given by college:
 
 'Brief
 
@@ -28,4 +28,4 @@ As part of the monthly reporting, managers would like to be able to output the f
 
 8. Search for a job by cost within a given range.'
 
-Author: Joanne Helen Mana (2023).
+Project's author: Joanne Helen Mana (2023).
