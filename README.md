@@ -15,9 +15,11 @@ The system should be able to meet the following requirements as determined by th
 3. Create Job
 4. Assign a contractor to a job
 5. Complete a job (returning the contractor to the available pool).
+
 To complete some of the above requirements it would be necessary to be able to view and manage the following:
 6. View/filter available contractors to add to a job.
 7. View/filter jobs that do not have a contractor assigned.
+
 As part of the monthly reporting, managers would like to be able to output the following reports:
 8. Search for a job by cost within a given range.'
 
